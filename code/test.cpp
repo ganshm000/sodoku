@@ -56,7 +56,7 @@ void test(MatrixMap (*f)(Matrix))
 
 int main()
 {
-    freopen("test1.in","r",stdin);
+    freopen("../input/test1.in","r",stdin);
     
     for(int i = 0;i < 9;i ++)
         for(int j = 0;j < 9;j ++) 
